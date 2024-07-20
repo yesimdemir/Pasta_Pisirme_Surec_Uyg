@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\bin\Debug\Pasta_Pisirme_Surec_Uyg.exe.config
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\bin\Debug\Pasta_Pisirme_Surec_Uyg.exe
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\bin\Debug\Pasta_Pisirme_Surec_Uyg.pdb
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.Form1.resources
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.Properties.Resources.resources
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.exe
+D:\SQL\C# Projeler\Pasta_Pisirme_Surec_Uyg\Pasta_Pisirme_Surec_Uyg\obj\Debug\Pasta_Pisirme_Surec_Uyg.pdb
